@@ -4,6 +4,6 @@ cffi bindings for sdl3
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/aiffc/cl-sdl3.git |
-| commit  | 284ae2a                                  |
+| commit  | c326104                                  |
 | systems | sdl3                                     |
 |---------+------------------------------------------|
