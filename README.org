@@ -7,3 +7,4 @@ cffi bindings for sdl3
 | commit  | 47c90b5                                  |
 | systems | sdl3                                     |
 |---------+------------------------------------------|
+ 
